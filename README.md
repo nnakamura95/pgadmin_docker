@@ -39,7 +39,7 @@ For the Username:
 For the Password:
 > postgres
 
-Finally, click the "Save password?"
+Finally, click the "Save password?" and then click Save
 
 
 
